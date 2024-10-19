@@ -1,4 +1,4 @@
-# 👋 Hola! from Fuseware.
+# 👋 Hola! from Fuseware, Inc.
 
 ![fusewarelogo](https://github.com/user-attachments/assets/06f4e1f1-b21b-47fc-8106-e4af6bcec961)
 
