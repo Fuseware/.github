@@ -12,4 +12,5 @@ Fuseware is a software solution designed to streamline and secure the management
 + [fuseware-extension](https://github.com/Fuseware/fuseware-extension)
 + [fuseware-db](https://github.com/Fuseware/fusware-db)
 + [fuseware-desktop](https://github.com/Fuseware/fuseware-desktop)
+
 🗒️ We welcome contributions to both our documentation and software projects.
