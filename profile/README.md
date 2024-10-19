@@ -1,7 +1,7 @@
 ## 👋 Hola! from 
 
 <p align="center">
-<img width="630" align="center" alt="Fuseware, Inc." src="https://github.com/user-attachments/assets/d9aa10a9-ce17-43c9-aaba-f4441e79a23f">
+<img width="630" align="center" alt="Fuseware, Inc." src="https://github.com/user-attachments/assets/a3147e51-b5f7-4c3a-a728-f049266d5b9e">
 </p>
 
 ## 💡 What is Fuseware?
