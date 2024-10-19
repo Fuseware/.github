@@ -1,8 +1,10 @@
-# 👋 Hola! from Fuseware, Inc.
+## 👋 Hola! from 
 
-![fusewarelogo](https://github.com/user-attachments/assets/06f4e1f1-b21b-47fc-8106-e4af6bcec961)
+<p align="center">
+<img width="630" align="center" alt="Fuseware, Inc." src="https://github.com/user-attachments/assets/d9aa10a9-ce17-43c9-aaba-f4441e79a23f">
+</p>
 
-💡 What is Fuseware?
+## 💡 What is Fuseware?
 
 Fuseware is a software solution designed to streamline and secure the management of software dependencies within development projects. Our projects include:
 + [fuseware-sdk](https://github.com/Fuseware/fuseware-sdk)
